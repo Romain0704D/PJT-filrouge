@@ -26,7 +26,7 @@ Le projet **File Rouge** est un site web conçu pour apprendre les principes fon
 Si vous souhaitez cloner le dépôt Git, ouvrez un terminal et exécutez la commande suivante. **PS** : assurez-vous d'avoir installé Git (téléchargez-le ici : [Git](https://git-scm.com/)) :
 
 ````
-git clone https://github.com/Romain07D/PJT-filrouge.git
+git clone https://github.com/Romain0704D/PJT-filrouge.git
 ````
 ---
 ## Remarques
