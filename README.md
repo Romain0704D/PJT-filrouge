@@ -35,4 +35,4 @@ git clone https://github.com/Romain07D/PJT-filrouge.git
 Pour toute modification du style, consultez le fichier CSS associé au projet.
 
 ## Lien vers Github Pages 
-- [Visualisation](https://romain07d.github.io/PJT-filrouge/) du site web.
+- [Visualisation](https://romain0704d.github.io/PJT-filrouge/) du site web.
